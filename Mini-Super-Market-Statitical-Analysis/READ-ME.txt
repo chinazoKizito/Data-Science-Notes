@@ -1,0 +1,1 @@
+The Mini-Supermarket analysis notebook is a statistical analysis of a small shop's income in a week,(The data was totally fabricated) where daily sales were calculated, correlation between the products and daily sales were measured, Other EDA procedures were carried out on the dataset to effectively understand it in depth .
